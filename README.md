@@ -1,0 +1,2 @@
+# atomist-boot
+Atomist Trial
